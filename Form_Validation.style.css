@@ -1,0 +1,11 @@
+input {
+    box-shadow: none !important;
+}
+
+#strength-description {
+    color: #fff;
+    padding: 0;
+    width: 0;
+    border: none;
+    font-weight: 600;
+}
